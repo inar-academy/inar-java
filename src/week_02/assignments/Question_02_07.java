@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Question_02_07 {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         // Prompt the user to enter the number of minutes

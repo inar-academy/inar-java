@@ -4,6 +4,7 @@ import java.util.Scanner;
 
 public class Question_02_08 {
     public static void main(String[] args) {
+
         Scanner input = new Scanner(System.in);
 
         // Prompt user to enter the time offset of GMT
