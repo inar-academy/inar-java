@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="added the solution code for Week_02 - Question_02_01" />
+    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="added the solution code for Week_02 - Question_02_07" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +105,55 @@
       <option name="project" value="LOCAL" />
       <updated>1691619206325</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added the solution code for Week_02 - Question_02_02">
+      <option name="closed" value="true" />
+      <created>1691619250910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619250910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added the solution code for Week_02 - Question_02_03">
+      <option name="closed" value="true" />
+      <created>1691619271801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619271801</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added the solution code for Week_02 - Question_02_04">
+      <option name="closed" value="true" />
+      <created>1691619291233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619291233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added the solution code for Week_02 - Question_02_05">
+      <option name="closed" value="true" />
+      <created>1691619313356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619313356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added the solution code for Week_02 - Question_02_06">
+      <option name="closed" value="true" />
+      <created>1691619332285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619332285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added the solution code for Week_02 - Question_02_07">
+      <option name="closed" value="true" />
+      <created>1691619482041</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619482041</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +170,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit for pull" />
     <MESSAGE value="added the solution code for Week_02 - Question_02_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the solution code for Week_02 - Question_02_01" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_02" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_03" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_04" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_05" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_06" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_07" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the solution code for Week_02 - Question_02_07" />
   </component>
 </project>
