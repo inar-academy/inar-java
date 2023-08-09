@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="added the solution code for Week_02 - Question_02_10">
-      <change beforePath="$PROJECT_DIR$/src/week_02/assignments/Question_02_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_02/assignments/Question_02_11.java" afterDir="false" />
-    </list>
+    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="added the solution code for Week_02 - Question_02_11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +177,15 @@
       <option name="project" value="LOCAL" />
       <updated>1691619844744</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added the solution code for Week_02 - Question_02_11">
+      <option name="closed" value="true" />
+      <created>1691620078353</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691620078353</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,6 +211,7 @@
     <MESSAGE value="added the solution code for Week_02 - Question_02_08" />
     <MESSAGE value="added the solution code for Week_02 - Question_02_09" />
     <MESSAGE value="added the solution code for Week_02 - Question_02_10" />
-    <option name="LAST_COMMIT_MESSAGE" value="added the solution code for Week_02 - Question_02_10" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_11" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the solution code for Week_02 - Question_02_11" />
   </component>
 </project>
