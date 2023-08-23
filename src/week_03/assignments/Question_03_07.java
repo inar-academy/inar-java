@@ -42,7 +42,6 @@ public class Question_03_07 {
         } else {
             System.out.println(numberOfNickels + " nickels");
         }
-
         if (numberOfPennies <= 1) {
             System.out.println(numberOfPennies + " penny");
         } else {
