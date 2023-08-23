@@ -13,7 +13,6 @@ public class Question_03_22 {
         double x1 = 0;
         double y1 = 0;
 
-
         double distanceToZero = Math.sqrt(Math.pow(x2 - x1, 2) + Math.pow(y2 - y1, 2));
 
         String res = "";
@@ -24,7 +23,5 @@ public class Question_03_22 {
         }
 
         System.out.println("Point (" + x2 + ", " + y2 + ") " + res);
-
-
     }
 }

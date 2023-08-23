@@ -13,7 +13,6 @@ public class Question_03_08 {
 
         if (a > b && b > c) {
             System.out.println("Increasing order : " + c + " " + b + " " + a);
-
         }
         if (a > c && c > b) {
             System.out.println("Increasing order : " + b + " " + c + " " + a);
@@ -31,6 +30,5 @@ public class Question_03_08 {
         if (c > a && a > b) {
             System.out.println("Increasing order : " + b + " " + a + " " + c);
         }
-
     }
 }

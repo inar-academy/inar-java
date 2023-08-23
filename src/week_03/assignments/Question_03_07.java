@@ -19,7 +19,9 @@ public class Question_03_07 {
         int numberOfNickels = remainingAmount / 5;
         remainingAmount %= 5;
         int numberOfPennies = remainingAmount;
+
         System.out.println("Your amount " + amount + " consist of");
+
         if (numberOfDollars <= 1) {
             System.out.println(numberOfDollars + " dollar");
         } else {
@@ -46,7 +48,5 @@ public class Question_03_07 {
         } else {
             System.out.println(numberOfPennies + " pennies");
         }
-
     }
-
 }

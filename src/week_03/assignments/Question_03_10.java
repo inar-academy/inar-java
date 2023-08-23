@@ -3,12 +3,12 @@ package week_03.assignments;
 import java.util.Scanner;
 
 public class Question_03_10 {
-    public static void main(String[] agrs) {
+    public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        // Generate tow integers less than 100
-        int number1 = (int)(Math.random() * 100);
-        int number2 = (int)(Math.random() * 100);
+        // Generate two integers less than 100
+        int number1 = (int) (Math.random() * 100);
+        int number2 = (int) (Math.random() * 100);
 
         // Prompt the user to enter an answer
         System.out.print(

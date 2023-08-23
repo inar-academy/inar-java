@@ -28,10 +28,13 @@ public class Question_03_15 {
         // Check the guess
         if (guess == lottery) {
             System.out.println("Exact match: you win $10,000");
+
         } else if (guessDigit1 == lotteryDigit2 && guessDigit2 == lotteryDigit1 && guessDigit3 == lotteryDigit3 ||
                 guessDigit1 == lotteryDigit3 && guessDigit3 == lotteryDigit1 && guessDigit2 == lotteryDigit2 ||
                 guessDigit2 == lotteryDigit3 && guessDigit3 == lotteryDigit2 && guessDigit1 == lotteryDigit1) {
+
             System.out.println("Matched all numbers!!! 3,000$ Prize!!!");
+
         } else if (guessDigit1 == lotteryDigit1
                 || guessDigit1 == lotteryDigit2
                 || guessDigit1 == lotteryDigit3
@@ -44,7 +47,5 @@ public class Question_03_15 {
             System.out.println("Matched one number!!! 1,000$ Prize!!!");
         } else
             System.out.println("Sorry no match :(");
-
-
     }
 }

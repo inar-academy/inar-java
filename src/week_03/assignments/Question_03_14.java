@@ -13,7 +13,6 @@ public class Question_03_14 {
             System.out.println("Your guess is correct");
         } else {
             System.out.println("Your guess is incorrect");
-
         }
     }
 }

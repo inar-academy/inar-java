@@ -11,9 +11,9 @@ public class Question_03_12 {
         int number = input.nextInt();
 
         // Test for palindrome
-        int digit1 = (int)(number / 100);
+        int digit1 = (int) (number / 100);
         int remaining = number % 100;
-        int digit3 = (int)(remaining % 10);
+        int digit3 = (int) (remaining % 10);
 
         // Display result
         System.out.println(

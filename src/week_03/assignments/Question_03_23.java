@@ -11,13 +11,9 @@ public class Question_03_23 {
         double y = input.nextDouble();
 
         if (Math.pow(Math.pow(x, 2), 0.5) <= 10.0 / 2 || Math.pow(Math.pow(y, 2), 0.5) <= 5.0 / 2) {
-
             System.out.println("Point (" + x + "," + y + ") is in the rectangle");
-
         } else {
             System.out.println("Point (" + x + "," + y + ") is not in the rectangle");
         }
-
     }
-
 }

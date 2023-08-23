@@ -26,7 +26,6 @@ public class Question_03_20 {
 
             System.out.println("invalid");
             System.exit(1);
-
         }
 
         double windChill = 35.74 + 0.6215 * temperature - 35.75 * Math.pow(speed, 0.16)

@@ -22,7 +22,6 @@ public class Question_03_18 {
                 costPerPound = 8.5;
             } else {
                 costPerPound = 10.5;
-
             }
             System.out.println("Shipping cost of package is $" + costPerPound * weight);
         }

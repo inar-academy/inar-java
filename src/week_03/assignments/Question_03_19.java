@@ -15,8 +15,6 @@ public class Question_03_19 {
             System.out.print("The perimeter is " + (s1 + s2 + s3));
         } else {
             System.out.print("The input is invalid");
-
         }
-
     }
 }

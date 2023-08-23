@@ -24,6 +24,5 @@ public class Question_03_01 {
         } else {
             System.out.println("The equation has no real roots");
         }
-
     }
 }

@@ -22,18 +22,17 @@ public class Question_03_09 {
         int checksum = (d1 * 1 + d2 * 2 + d3 * 3 + d4 * 4 + d5 * 5 + d6 * 6 + d7 * 7 + d8 * 8 + d9 * 9) % 11;
 
         if (checksum == 10) {
-            if ( d1 ==0) {
-                System.out.println("The ISBN-10 number is " +"0"+ isbn + "X");
-            }else {
+            if (d1 == 0) {
+                System.out.println("The ISBN-10 number is " + "0" + isbn + "X");
+            } else {
                 System.out.println("The ISBN-10 number is " + isbn + "X");
             }
-        }else {
-            if (d1 ==0) {
-                System.out.println("The ISBN-10 number is " +"0"+ isbn + "" + checksum);
-            }else {
+        } else {
+            if (d1 == 0) {
+                System.out.println("The ISBN-10 number is " + "0" + isbn + "" + checksum);
+            } else {
                 System.out.println("The ISBN-10 number is " + isbn + "" + checksum);
             }
         }
-
     }
 }
