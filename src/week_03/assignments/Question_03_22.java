@@ -21,7 +21,6 @@ public class Question_03_22 {
         } else {
             res += "is not in the circle";
         }
-
         System.out.println("Point (" + x2 + ", " + y2 + ") " + res);
     }
 }
