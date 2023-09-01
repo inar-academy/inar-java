@@ -1,25 +1,22 @@
-package week_05.assignments;/*
-(Decimal to octal) Write a program that prompts the user to enter a decimal
-integer and displays its corresponding octal value. Don’t use Java’s Integer
-.toOctalString(int) in this program.
-*/
+package week_05.assignments;
+
 import java.util.Scanner;
 
 public class Question_05_38 {
-	public static void main(String[] args) {
-		Scanner input = new Scanner(System.in); // Create a Scanner
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in); // Create a Scanner
 
-		// Prompt the user to enter a decimal integer
-		System.out.print("Enter a decimal integer: ");
-		int decimal = input.nextInt();
+        // Prompt the user to enter a decimal integer
+        System.out.print("Enter a decimal integer: ");
+        int decimal = input.nextInt();
 
-		// Convet decimal to octal
-		String octal = "";							// Hold octal value
-		for (int i = decimal; i > 0; i /= 8) {
-			octal = i % 8 + octal;
-		}
+        // Convet decimal to octal
+        String octal = "";                            // Hold octal value
+        for (int i = decimal; i > 0; i /= 8) {
+            octal = i % 8 + octal;
+        }
 
-		// Display results
-		System.out.println("The octal of " + decimal + " is " + octal);
-	}
+        // Display results
+        System.out.println("The octal of " + decimal + " is " + octal);
+    }
 }

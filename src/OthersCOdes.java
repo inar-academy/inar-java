@@ -2,24 +2,22 @@ import java.util.Scanner;
 
 public class OthersCOdes {
     public static void main(String[] args) {
-       try (Scanner input = new Scanner(System.in)) {
-            System.out.println("Enter an integer:");
-            int number = input.nextInt();
-            int fac = 2;
-            while (number != 1) {
-                if (number % fac != 0) {
-                    fac++;
-                } else if (number % fac == 0) {
-                    number = number / fac;
+        double e = 1,p=1;
 
-                    if (number != 1) {
-                        System.out.print(fac + ",");
-                    } else {
-                        System.out.println(fac + ".");
-                    }
-                }
+        for (int i = 1; i <= 100000; i++) {
+            p=p/i;
+            e += p;
+            if (i == 10000) {
+                System.out.println("e at i = 10000 is " + e);
+            } else if (i == 20000) {
+                System.out.println("e at i = 20000 is " + e);
+            } else if (i == 100000) {
+                System.out.println("e at i = 100000 is " + e);
             }
         }
+
+        System.out.println("Java's e is " + Math.E);
+
     }
 }
 

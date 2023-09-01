@@ -15,7 +15,6 @@ public class Question_05_19 {
             for (int m = 1; m <= i - 1; m++) {
                 System.out.printf("%4d", (int) Math.pow(2, i - m - 1));
             }
-
             System.out.println();
         }
     }
