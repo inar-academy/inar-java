@@ -1,5 +1,6 @@
 package week_05.assignments;
-
+//Note : You can solve this problem in different classes. For example :
+// For patter A Question_05_18_A, For B Question_05_18_B ...
 public class Question_05_18 {
     public static void main(String[] args) {
         patternA();

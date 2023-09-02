@@ -15,7 +15,7 @@ public class Question_05_51 {
         int index = 0;                // Initialize index to 0
         String prefix = "";        // Initialize prefix as empty string
 
-        // Get the largest commmon prefix of the two strings
+        // Get the largest common prefix of the two strings
         while (string1.charAt(index) == string2.charAt(index)) {
             prefix += string1.charAt(index);
             index++;
@@ -23,9 +23,9 @@ public class Question_05_51 {
 
         // Display the result
         if (prefix.length() > 0)
-            System.out.println("The commmon prefix is " + prefix);
+            System.out.println("The common prefix is " + prefix);
         else
             System.out.println(string1 + " and " + string2 +
-                    " have no commmon prefix");
+                    " have no common prefix");
     }
 }
