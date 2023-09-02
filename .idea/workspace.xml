@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dfe74cc1-fb5a-4374-af3c-9e17dc15ec78" name="Changes" comment="" />
+    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="added the solution code for Week_02 - Question_02_13">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,13 +25,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="2UOz4n1m5Oy2wZxgRvVQibTmnMb" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectId" id="2TVTR9JsCgBVv9wqLvaIqYQ79hx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,32 +37,22 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Samsung/workspace/inar-java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.Confirmation&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Sinan/inar-workspace/inar-java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Question_05_39">
-    <configuration name="ErdemCodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ErdemCodes" />
-      <module name="inar-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OthersCOdes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OthersCOdes" />
-      <module name="inar-java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question_05_26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_26" />
+  <component name="RunManager" selected="Application.Question_02_13">
+    <configuration name="Question_02_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_02.assignments.Question_02_07" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="PATTERN" value="week_02.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_05_33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_33" />
+    <configuration name="Question_02_08" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_02.assignments.Question_02_08" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="PATTERN" value="week_02.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +73,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question_05_39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="week_05.assignments.Question_05_39" />
+    <configuration name="Question_02_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_02.assignments.Question_02_11" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="week_05.assignments.*" />
+          <option name="PATTERN" value="week_02.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_02_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_02.assignments.Question_02_12" />
+      <module name="inar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_02.assignments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question_02_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week_02.assignments.Question_02_13" />
+      <module name="inar-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="week_02.assignments.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,27 +114,143 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question_05_39" />
-        <item itemvalue="Application.Question_05_33" />
-        <item itemvalue="Application.Question_05_26" />
-        <item itemvalue="Application.ErdemCodes" />
-        <item itemvalue="Application.OthersCOdes" />
+        <item itemvalue="Application.Question_02_13" />
+        <item itemvalue="Application.Question_02_11" />
+        <item itemvalue="Application.Question_02_08" />
+        <item itemvalue="Application.Question_02_07" />
+        <item itemvalue="Application.Question_02_12" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\tsur\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dfe74cc1-fb5a-4374-af3c-9e17dc15ec78" name="Changes" comment="" />
-      <created>1692825230039</created>
+      <changelist id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="" />
+      <created>1691127238411</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1692825230039</updated>
+      <updated>1691127238411</updated>
+      <workItem from="1691829523209" duration="567000" />
+      <workItem from="1691830251628" duration="1378000" />
+      <workItem from="1691848068780" duration="5000" />
     </task>
+    <task id="LOCAL-00001" summary="added the solution code for Week_02 - Question_02_01">
+      <option name="closed" value="true" />
+      <created>1691619206325</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619206325</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added the solution code for Week_02 - Question_02_02">
+      <option name="closed" value="true" />
+      <created>1691619250910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619250910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="added the solution code for Week_02 - Question_02_03">
+      <option name="closed" value="true" />
+      <created>1691619271801</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619271801</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added the solution code for Week_02 - Question_02_04">
+      <option name="closed" value="true" />
+      <created>1691619291233</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619291233</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added the solution code for Week_02 - Question_02_05">
+      <option name="closed" value="true" />
+      <created>1691619313356</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619313356</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added the solution code for Week_02 - Question_02_06">
+      <option name="closed" value="true" />
+      <created>1691619332285</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619332285</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added the solution code for Week_02 - Question_02_07">
+      <option name="closed" value="true" />
+      <created>1691619482041</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619482041</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added the solution code for Week_02 - Question_02_08">
+      <option name="closed" value="true" />
+      <created>1691619563429</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619563429</updated>
+    </task>
+    <task id="LOCAL-00009" summary="added the solution code for Week_02 - Question_02_09">
+      <option name="closed" value="true" />
+      <created>1691619722904</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619722904</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added the solution code for Week_02 - Question_02_10">
+      <option name="closed" value="true" />
+      <created>1691619844744</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1691619844744</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added the solution code for Week_02 - Question_02_11">
+      <option name="closed" value="true" />
+      <created>1691620078353</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1691620078353</updated>
+    </task>
+    <task id="LOCAL-00012" summary="added the solution code for Week_02 - Question_02_12">
+      <option name="closed" value="true" />
+      <created>1691620260573</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1691620260573</updated>
+    </task>
+    <task id="LOCAL-00013" summary="added the solution code for Week_02 - Question_02_12">
+      <option name="closed" value="true" />
+      <created>1691620264356</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1691620264356</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added the solution code for Week_02 - Question_02_13">
+      <option name="closed" value="true" />
+      <created>1691620415437</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1691620415437</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -133,19 +263,21 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/OthersCOdes.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit for pull" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_01" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_02" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_03" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_04" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_05" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_06" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_07" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_08" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_09" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_10" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_11" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_12" />
+    <MESSAGE value="added the solution code for Week_02 - Question_02_13" />
+    <option name="LAST_COMMIT_MESSAGE" value="added the solution code for Week_02 - Question_02_13" />
   </component>
 </project>
