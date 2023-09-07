@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="">
+
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -28,6 +29,8 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+
+
   <component name="ProjectId" id="2TVTR9JsCgBVv9wqLvaIqYQ79hx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -40,7 +43,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+
     "last_opened_file_path": "/Users/Inar/workspace/inar-java/src",
+
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -55,6 +60,7 @@
       <recent name="week_04.live_class" />
     </key>
   </component>
+
   <component name="RunManager" selected="Application.MyString3">
     <configuration name="FindTheCheapestGym" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_04.live_class.FindTheCheapestGym" />
@@ -62,6 +68,7 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week_04.live_class.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +76,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="MyChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_04.live_class.MyChar" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week_04.live_class.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +91,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="MyString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_04.live_class.MyString" />
       <module name="inar-java" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="week_04.live_class.*" />
+
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,6 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
+
     <configuration name="MyString1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_04.live_class.MyString1" />
       <module name="inar-java" />
@@ -104,10 +117,12 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+
     <configuration name="MyString3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="week_04.live_class.MyString3" />
       <module name="inar-java" />
@@ -128,6 +143,7 @@
         <item itemvalue="Application.MyString" />
         <item itemvalue="Application.MyChar" />
         <item itemvalue="Application.FindTheCheapestGym" />
+
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +176,7 @@
           <url>file://$PROJECT_DIR$/src/week_02/live_class/LeapYear.java</url>
           <line>12</line>
           <option name="timeStamp" value="2" />
+
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/week_03/live_class/Lottery.java</url>
@@ -170,6 +187,7 @@
           <url>file://$PROJECT_DIR$/src/week_04/live_class/MinMaxAbs.java</url>
           <line>11</line>
           <option name="timeStamp" value="14" />
+
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
