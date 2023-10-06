@@ -1,49 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_05/assignments/Question_05_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_05/assignments/Question_05_39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_08.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_09.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_15.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_20.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_36.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/week_06/assignments/Question_06_39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/week_06/assignments/Question_06_39.java" afterDir="false" />
-    </list>
+    <list default="true" id="16fa6b48-c981-4311-a549-041aa5120e6e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
