@@ -1,10 +1,4 @@
-package week_06.assignments;/*
-(Display matrix of 0s and 1s) Write a method that displays an n-by-n matrix using
-the following header:
-public static void printMatrix(int n)
-Each element is 0 or 1, which is generated randomly. Write a test program that
-prompts the user to enter n and displays an n-by-n matrix.
-*/
+package week_06.assignments;
 import java.util.Scanner;
 
 public class Question_06_17 {
@@ -25,7 +19,7 @@ public class Question_06_17 {
 		for (int rows = 0; rows < n; rows++) {
 			for (int cols = 0; cols < n; cols ++) {
 				// Generate and print randomly 0 or 1
-				System.out.print((int)(Math.random() * 2));
+				System.out.print((int)(Math.random() * 2) + " ");
 			}
 			// Print newline
 			System.out.println();

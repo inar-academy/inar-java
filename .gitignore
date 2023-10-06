@@ -29,6 +29,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
-/src/Question_Serileme.java
+/src/QuestionHeader.java
 /src/test.java
 

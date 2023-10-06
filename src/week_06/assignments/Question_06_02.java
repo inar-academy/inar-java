@@ -23,7 +23,6 @@ public class Question_06_02 {
 			sum += n % 10;
 			n /= 10;
 		}
-
 		return sum;
 	}
 }
