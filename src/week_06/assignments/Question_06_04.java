@@ -1,12 +1,4 @@
-package week_06.assignments;/*
-(Display an integer reversed) Write a method with the following header to display
-an integer in reverse order:
-
-public static void reverse(int number)
-
-For example, reverse(3456) displays 6543. Write a test program that prompts
-the user to enter an integer and displays its reversal.
-*/
+package week_06.assignments;
 import java.util.Scanner;
 
 public class Question_06_04 {
@@ -14,7 +6,7 @@ public class Question_06_04 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in); // Create Scanner
 
-		System.out.println("Display and integer reversed:");
+		System.out.println("Display an integer reversed:");
 		
 		// Prompt the user to enter an integer
 		System.out.print("Enter an integer: ");

@@ -1,14 +1,5 @@
 package week_06.assignments;
-
 import java.util.*;
-
-/**
- * **6.34 (Print calendar) Programming Exercise 3.21 uses Zeller’s congruence to calculate the day of the week.
- * <p>
- * <p>
- * Simplify Listing 6.12, PrintCalendar.java, using Zeller’s
- * algorithm to get the start day of the month.
- */
 public class Question_06_34 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

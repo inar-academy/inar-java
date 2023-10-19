@@ -1,9 +1,5 @@
 package week_06.assignments;
 
-/*
-(Game: chance of winning at craps) Revise Exercise 6.30 to run it 10,000 times
-and display the number of winning games.
-*/
 public class Question_06_32 {
 	/** Main Method */
 	public static void main(String[] args) {

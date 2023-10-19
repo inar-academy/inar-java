@@ -1,11 +1,5 @@
 package week_06.assignments;
 
-/**
- * *6.38 (Generate random characters) Use the methods in RandomCharacter in Listing
- * 6.10 to print 100 uppercase letters and then 100 single digits, printing ten per line.
- *
- * @author Harry D.
- */
 public class Question_06_38 {
     public static void main(String[] args) {
         for (int i = 0; i < 200; i++) {
