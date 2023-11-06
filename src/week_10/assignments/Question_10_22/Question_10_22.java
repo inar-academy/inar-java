@@ -2,7 +2,7 @@ package week_10.assignments.Question_10_22;
 
 public class Question_10_22 {
     public static void main(String[] args) {
-        char[] ch ={'E', 'R', 'D', 'E', 'M'};
+        char[] ch ={'I', 'N', 'A', 'R'};
 
         MyString1 s1 = new MyString1(ch);
         System.out.println(s1.toString());

@@ -1,17 +1,16 @@
 package week_09.assignments.Question_09_04;
 
-import java.util.Random;
-
 public class Question_09_04 {
     public static void main(String[] args) {
-        Random random = new Random(1000);
-        System.out.println("Random Numbers are:");
+        // Create a Random object with seed 1000
+        java.util.Random randomNumber = new java.util.Random(1000);
 
-        for (int i = 0; i < 50; i++) {
-            if (i % 10 == 0) {
-                System.out.println();
-            }
-            System.out.printf("%-5d", random.nextInt(1000));
+        // Displays the first 50 random integers between 0 and 100
+        for (int i = 1; i <= 50; i++) {
+            if (i % 10 == 0)
+                System.out.printf("%5d\n", randomNumber.nextInt(100));
+            else
+                System.out.printf("%5d", randomNumber.nextInt(100));
         }
     }
 }

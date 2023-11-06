@@ -3,15 +3,15 @@ package week_10.assignments.Question_10_09;
 public class Question_10_09 {
     public static void main(String[] args) {
         Course inar = new Course("Java-Inar Academy");
-        inar.addStudent("Erdem Kamis");
-        inar.addStudent("Erkam Imam");
-        inar.addStudent("Etka Berk Orman");
-        inar.addStudent("Sinan Cetin");
-        inar.addStudent("Behlul Ersoz");
+        inar.addStudent("Özgür Kartal");
+        inar.addStudent("Bilal Topal");
+        inar.addStudent("Ada Kaya");
+        inar.addStudent("Besim Karabıyık");
+        inar.addStudent("Emir Uyanık");
         displayStudents(inar.getStudents(), inar.getNumberOfStudents());
 
-        inar.dropStudent("Tahir Gozuacik");
-        inar.dropStudent("Sinan Cetin");
+        inar.dropStudent("Bilal Topal");
+        inar.dropStudent("Emir Uyanık");
 
         displayStudents(inar.getStudents(), inar.getNumberOfStudents());
     }
